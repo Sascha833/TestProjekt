@@ -1,0 +1,18 @@
+	../SparkleDiff/SparkleDiff.cs \
+	../SparkleDiff/SparkleDiffWindow.cs \
+	../SparkleLib/SparkleFetcher.cs \
+	../SparkleLib/SparkleHelpers.cs \
+	../SparkleLib/SparkleOptions.cs \
+	../SparkleLib/SparklePaths.cs \
+	../SparkleLib/SparklePlatform.cs \
+	../SparkleLib/SparkleRepo.cs \
+	../SparkleShare/Nautilus/sparkleshare-nautilus-extension.py.in \
+	../SparkleShare/SparkleBubble.cs \
+	../SparkleShare/SparkleIntro.cs \
+	../SparkleShare/SparkleInvitation.cs \
+	../SparkleShare/SparkleLog.cs \
+	../SparkleShare/SparkleShare.cs \
+	../SparkleShare/SparkleSpinner.cs \
+	../SparkleShare/SparkleStatusIcon.cs \
+	../SparkleShare/SparkleUI.cs \
+	../SparkleShare/SparkleWindow.cs
